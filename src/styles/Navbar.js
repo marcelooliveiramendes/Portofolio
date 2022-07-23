@@ -27,6 +27,17 @@ export const Logo = styled.h1`
 
 export const Links = styled.ul`
     display: flex;
-    width: 300px;
+    width: 400px;
     justify-content: space-between;
+
+    a{
+        color: #fff;
+    }
+
+    a:hover{
+        transform: translateY(-5px);
+        border-bottom: 3px solid #fff;
+        transition: ease .5s;
+        font-weight: 500;
+    }
 `

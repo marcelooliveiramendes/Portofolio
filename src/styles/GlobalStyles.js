@@ -8,6 +8,8 @@ export const GlobalStyles = createGlobalStyle`
         box-sizing: border-box;
         outline: none;
         font-family: "Poppins";
+        text-decoration: none;
+        list-style: none;
     }
 
 `

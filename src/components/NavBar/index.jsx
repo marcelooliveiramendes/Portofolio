@@ -9,6 +9,7 @@ export default function NavBar() {
         <a href="#">Inicio</a>
         <a href="#">Sobre Mim</a>
         <a href="#">Projetos</a>
+        <a href="#">Contato</a>
       </Links>
     </Nav>
   )
